@@ -1,0 +1,24 @@
+Time to collect Easter Eggs!
+
+Do you know how the Easter Bunny make Easter Eggs? He do not make them, he collect them in goatlands! And today there is a lot of work to be done for you, becuse you ARE the Easter Bunny :p
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Easter Goat: You are the Easter Bunny.
+
+[b]CHARACTERISTICS[/b]
+- Easter Eggs randomly appear in the world.
+- Collect eggs in your inventory to jump higher and sprint faster.
+- The more eggs you have, the higher/faster you will go.
+
+[b]EASTER EGGS[/b]
+- [spoiler]They are everywhere!!![/spoiler]
+
+[b]KNOWN BUGS[/b]
+- Easter Eggs do not collide with the goat when you walk on them.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]This mod was quite a quite simple idea, but yet something fun to play with :) It was suggested about half a year ago, so I delayed it until next easter :p
+Nothing too fancy in there, the goat have white skin, a bunny mask (from Payday) and an inventory. Then eggs are randomly generated on the map, and the goat stats are updated regularly depending on the number of eggs you hold ^^
+[/quote]
